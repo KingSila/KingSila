@@ -1,6 +1,16 @@
 # 💫 Hi I am Silas Mokone
-  <br> 💻 **Senior Cloud Engineer | Azure | Terraform | DevOps | Security-Focused**<br>🌍 I design, build, and automate secure, cost-efficient cloud infrastructure on Azure using Infrastructure-as-Code, CI/CD, and strong security practices.
+  🚀 **Senior Cloud Engineer | Azure | Terraform | DevOps | Security | Automation**
 
+  🌍I design, build, and automate secure, scalable, and cost-effective Azure cloud environments using **Infrastructure as Code (IaC)**, **CI/CD pipelines**, and **cloud-native best practices**.  
+My focus is on empowering teams with reliable platform capabilities, efficient automation, and strong governance..
+
+## 💡 What I Focus On
+
+- ☁️ **Cloud Infrastructure** – Azure networking, security, and scalability  
+- 🧱 **Infrastructure as Code** – Terraform & Bicep modular design  
+- ⚙️ **CI/CD Automation** – Azure DevOps YAML & GitHub Actions pipelines  
+- 🔐 **Security & Governance** – Key Vault, Managed Identity, Azure Policy  
+- 📊 **Observability & FinOps** – Monitor, Log Analytics, Cost Optimization  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smokone@gmail.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:silas.mokone@icloud.com) 
@@ -12,6 +22,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=KingSila&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KingSila&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+⭐️ *"Build once, automate forever — reliability and consistency are the foundation of cloud excellence."*  
 ---
 [![](https://visitcount.itsvg.in/api?id=KingSila&icon=0&color=0)](https://visitcount.itsvg.in)
 
