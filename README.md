@@ -1,5 +1,5 @@
 # 💫 Hi I am Silas Mokone
-💻 Cloud Engineer <br>📊 Data tinkerer: I enjoy finding patterns and telling stories with data<br>⚡ Lifelong learner: currently diving deeper into AI & automation<br>🌍 Open to collaborating on impactful projects
+💻 Cloud Engineer <br>📊 **Senior Cloud Engineer | Azure | Terraform | DevOps | Security-Focused**<br>🌍 I design, build, and automate secure, cost-efficient cloud infrastructure on Azure using Infrastructure-as-Code, CI/CD, and strong security practices.
 
 
 ## 🌐 Socials:
